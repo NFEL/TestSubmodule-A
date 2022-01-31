@@ -1,0 +1,3 @@
+[submodule "TestSubmodule-B"]
+	path = TestSubmodule-B
+	url = git@github.com:NFEL/TestSubmodule-B.git
